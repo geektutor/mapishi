@@ -11,7 +11,7 @@ class Recipe {
       image: json['image'] as String,
       title: json['title'] as String,
       about: json['about'] as String,
-      description: json['description'] as List,
+      description: json['steps'] as List,
     );
   }
 }
