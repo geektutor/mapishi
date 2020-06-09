@@ -1,8 +1,39 @@
 [
+ {
+  "image": "assets/image.jpg",
+  "title": "Efo riro and egusi",
+  "about": "How to get away with murder",
+  "description": [
+    "Step 1", "Step 2"
+  ]
+},
   {
     "image": "assets/image.jpg",
     "title": "Efo riro and egusi",
     "about": "How to get away with murder"
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Efo riro and egusi",
+    "about": "How to get away with murder"
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Efo riro and egusi",
+    "about": "How to get away with murder"
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Efo riro and egusi",
+    "about": "How to get away with murder"
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Efo riro and egusi",
+    "about": "How to get away with murder",
+    "description": [
+      "Step 1", "Step 2"
+    ]
   },
   {
     "image": "assets/image.jpg",
