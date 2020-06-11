@@ -22,13 +22,18 @@ class _BottomSheetContent extends StatelessWidget {
               ),
             ),
           ),
-          const Divider(thickness: 1),
+          const Divider(
+            thickness: 1,
+            color: Colors.grey,
+          ),
           Expanded(
             child: ListView.builder(
               itemCount: description == null ? 0 : description.length,
               itemBuilder: (context, indexDes) {
                 return ListTile(
-                  title: Text("" + description[indexDes]),
+                  title: Text(
+                    "" + description[indexDes],
+                  ),
                 );
               },
             ),
