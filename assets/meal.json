@@ -9,11 +9,228 @@
 },
   {
     "image": "assets/image.jpg",
-    "title": "Food 2",
-    "about": "How to get away with murder",
+    "title": "Jollof rice",
+    "about": "Making Nigerian jollof rice",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "MoiMOi",
+    "about": "Step by step guide on how to prepare the local beans-cake delicacy (as some call it)",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Pounded Yam with Egusi Soup",
+    "about": "How everyone's favorite combo is made - you could possibly get away with anything, with this one",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5","Step 6"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Coconut-Rice and Chicken Sauce",
+    "about": "How to prepare this rarely made , but enjoyable dish",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Akara and corn custard (Ogi)",
+    "about": "Akara is a variant of beans-cake, this recipe shows you just how to make it",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5","Step 6"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Toast bread and scrambled eggs",
+    "about": "Agege bread and fried egg omelette recipe",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Eba and Banga Soup",
+    "about": "Build strong biceps, with this recipe - the art of turning Garri in hot water",
     "steps": [
       "Step 1",
       "Step 2"
     ]
-  }
+  },
+  
+  {
+    "image": "assets/image.jpg",
+    "title": "Boiled Yam and Scrambled eggs",
+    "about": "Hardly my favorite  but here's how its made",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5","Step 6"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Puff Puff",
+    "about": "Ha! yes our favorite snack at last - let's see how they take so much of our 10 naira",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "French fries, fried plantain and scrambled eggs",
+    "about": "So this is basically a toouched way of saying fried potatos (sweet potatoes btw) and scrambled eggs",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5","Step 6"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Pancakes",
+    "about": "Nothing much to see here , just how pancakes are made",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5"
+    ]
+  },
+  {
+    "image": "assets/image.jpg",
+    "title": "Semo and Okra Soup",
+    "about": "This recipe shows how the slimiest of all soups is prepared - and enjoyed (by some)",
+    "steps": [
+      "Step 1",
+      "Step 2","Step 3","Step 4","Step 5"
+    ]
+  },
+  {
+  "image": "assets/image.jpg",
+  "title": "Efo riro and egusi",
+  "about": "How to get away with murder",
+  "steps": [
+    "Step 1", "Step 2"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Edi kaiKong Soup",
+  "about": "Really a mouthful one to call - but trust me its worth it (also its scarce)",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Rice and Beans Combo - with chicken/fish sauce",
+  "about": "Arguably one of the best invetions in food theory, rice and beans is aa force to reckon with - come lemme show you how to make it",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Poundo Yam with Egusi Soup",
+  "about": "How everyone's favorite combo is made - you could possibly get away with anything, with this one (yeah i said this before - this one's a little bit compromised)",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5","Step 6"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Spaghetti with Chicken Sauce",
+  "about": "How to prepare this wonderful Italian, but enjoyable dish",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Local Bred",
+  "about": "See how that 'Agege Bread' (whole bread) is made ",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5","Step 6"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Scotch eggs",
+  "about": "How to make egg rolls - as 'scotch eggs' are dubbed in local tongue ",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Hotdogs",
+  "about": "HotDogs - how it's made",
+  "steps": [
+    "Step 1",
+    "Step 2"
+  ]
+},
+
+{
+  "image": "assets/image.jpg",
+  "title": "Chocolate Cake",
+  "about": "The holy grail of all food snacks - see how to 'bake' it ",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5","Step 6"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Tuwo ",
+  "about": "A local dish originating from the northern parts of the country",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Fried Rice and roasted turkey",
+  "about": "This would coe across as anyone's favorite meal, even often stereotyped as a wealthy man's dish - see how to this mouth watering dish ",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5","Step 6"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Doughnuts",
+  "about": "Surprise doughnuts, jam doughnuts, or regular, we love em all - let's make some shall we",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5"
+  ]
+},
+{
+  "image": "assets/image.jpg",
+  "title": "Plantain Fritata",
+  "about": "See how to make Fritata here!",
+  "steps": [
+    "Step 1",
+    "Step 2","Step 3","Step 4","Step 5"
+  ]
+}
 ]
