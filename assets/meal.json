@@ -11,17 +11,22 @@
     "image": "assets/image.jpg",
     "title": "Kids Noodles",
     "about": "Learn how to cook delicious noodles for your kids",
-   "Ingredients": "1 pack of Noodles, 1 very small Green Pepper, 1 very small Carrot, Small chunks of beef or chicken, 3 table spoons of Olive / Vegetable Oil"
+   "ingredients": ["1 pack of Noodles", 
+                   "1 very small Green Pepper", 
+                   "1 very small Carrot", 
+                   "Small chunks of beef or chicken", 
+                   "3 table spoons of Olive / Vegetable Oil"
+                  ]
     "steps": [
-      "Step 1": "Wash and cut the green pepper and carrot into small pieces.",
-      "Step 2": "Wash and cook the chunks of beef or chicken till done.",
-     "Step 3": "Before opening the pack of noodles, break up the noodles in pieces.",
-     "Step 4": "Put the noodle pieces in the pot containing the cooked beef and add the spice that comes with the noodle.",
-     "Step 5": "Pour water to the same level as the contents of the pot.",
-     "Step 6": "Cover the pot and set to cook at medium heat.",
-     "Step 7": "When the contents start boiling, add the diced carrots and green pepper.",
-     "Step 8": "Add the Olive / vegetable oil.",
-     "Step 9": "Cover and leave to continue cooking till the water is almost dry. Do not allow all the water to dry up because this causes the noodle to become too dry when it has cooled down.",
+       "Wash and cut the green pepper and carrot into small pieces.",
+       "Wash and cook the chunks of beef or chicken till done.",
+      "Before opening the pack of noodles, break up the noodles in pieces.",
+      "Put the noodle pieces in the pot containing the cooked beef and add the spice that comes with the noodle.",
+      "Pour water to the same level as the contents of the pot.",
+      "Cover the pot and set to cook at medium heat.",
+      "When the contents start boiling, add the diced carrots and green pepper.",
+      "Add the Olive / vegetable oil.",
+      "Cover and leave to continue cooking till the water is almost dry. Do not allow all the water to dry up because this causes the noodle to become too dry when it has cooled down.",
     ]
   }
 ]
